@@ -1,4 +1,6 @@
-import React from 'react';
+import React from "react";
+import Counter from "./components/Counter";
+import Mirror from "./components/Mirror";
 
 function App() {
   return (
